@@ -18,3 +18,5 @@ feature 6
 master
 =======
 feature 7
+======
+update master
