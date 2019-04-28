@@ -16,3 +16,5 @@ feature 5
 feature 6
 ======
 master
+=======
+feature 7
