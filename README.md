@@ -12,3 +12,5 @@ feature 3
 master
 =======
 feature 5
+=======
+feature 6
