@@ -8,4 +8,5 @@ feature 1
 feature 4
 =======
 feature 3
-
+=======
+master
