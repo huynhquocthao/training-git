@@ -1,7 +1,5 @@
 Init develop cont. commit + Init feature 1.3
 
-Con gi dau em!!!
-
 feature 2
 =======
 feature 1
@@ -35,10 +33,6 @@ update master
 ======
 feature 8.3
 =====
-update master
+update master123
 =======
 feature 8.4
-======
-update master
-=======
-feature 8.5
