@@ -1,5 +1,7 @@
 Init develop cont. commit + Init feature 1.3
 
+Implement a new feature
+
 feature 2
 =======
 feature 1
